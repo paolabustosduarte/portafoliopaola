@@ -1,0 +1,32 @@
+body{
+    /* RGB red green blue*/
+        background-color: palevioletred;
+        color: cornsilk;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    p {
+        color: pink;
+    } 
+    
+    h1 {color: cornsilk;
+    }
+    /*Para agregar clase, ponermos (.) antes del nombre*/
+    .Titulo-web{
+        color: deeppink;
+        font-size: x-large;
+    }
+    img{
+        width:400px ; /*width - ancho*/
+        height: 300px;
+    }
+    .max-capy{
+        width:200px;
+    }
+    main .main-input search-icon{
+        background-image: image(paola.png.jpeg);
+        background-position: center;
+        background-size: contain;
+        width: 15px;
+        background-repeat: no-repeat;
+        height: 20px;
+    }
